@@ -74,3 +74,5 @@ Chunk birleştirme ve dosya doğrulama
 Metadata listeleme
 
 Tüm verileri ve dosyaları temizleme
+
+NOT: Mevcut database FileChunker içerisinde mevcuttur. Migration işlemleriyle uğraşmadan direkt çalıştırılabilir
